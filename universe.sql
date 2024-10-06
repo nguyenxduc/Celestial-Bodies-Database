@@ -1,6 +1,3 @@
---Prepared for FreeCodeCamp's Relational Database course
-
-DROP DATABASE universe;
 
 CREATE DATABASE universe;
 
